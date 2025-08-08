@@ -1,4 +1,5 @@
 # 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yosefm17&label=Profile%20views&color=0e75b6&style=flat" alt="yosefm17" /> </p>
 
 👨‍💻 Yosef Mulugeta<br>🎓 Final Year CS Student | 💼 Full-Stack & Mobile Developer | 🛠 System Architect<br>Welcome! I'm Yosef Mulugeta — a final-year Computer Science student at Dire Dawa University and an emerging full-stack engineer building scalable, secure, and user-centric applications. I specialize in architecting modern software solutions that integrate mobile, backend, and cloud technologies with clean code and maintainable structure.
 
